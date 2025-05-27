@@ -1,0 +1,16 @@
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\bin\Debug\net8.0-windows\jogodasorte.exe
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\bin\Debug\net8.0-windows\jogodasorte.deps.json
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\bin\Debug\net8.0-windows\jogodasorte.runtimeconfig.json
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\bin\Debug\net8.0-windows\jogodasorte.dll
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\bin\Debug\net8.0-windows\jogodasorte.pdb
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.Form1.resources
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.csproj.GenerateResource.cache
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.AssemblyInfo.cs
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.dll
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\refint\jogodasorte.dll
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.pdb
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\jogodasorte.genruntimeconfig.cache
+C:\Users\flavi\source\repos\jogodasorte\jogodasorte\obj\Debug\net8.0-windows\ref\jogodasorte.dll
