@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Flávio Pereira</h1>
 
 <p align="center">
-    🧑‍💻 Programador Júnior apaixonado por tecnologia e desenvolvimento de software.<br>
-    💡 Gosto de criar soluções inovadoras e aprender constantemente novas ferramentas.<br>
+    🧑‍💻 Programador Júnior com paixão por tecnologia e desenvolvimento de software.<br>
+    💡 Gosto de criar soluções inovadoras e aprender continuamente novas ferramentas.<br>
     📍 Localização: Caldas da Rainha, Portugal
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor júnior com vontade de crescer e contribuir com projetos reais. Busco sempre melhorar minhas habilidades e estou aberto a oportunidades e colaborações em projetos de código aberto.
+Sou um programador júnior motivado e com vontade de evoluir. Tenho gosto por desenvolver projetos criativos, resolver problemas e colaborar com equipas de desenvolvimento. Estou sempre pronto para aprender e crescer profissionalmente.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas que utilizo
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -24,7 +24,7 @@ Sou um desenvolvedor júnior com vontade de crescer e contribuir com projetos re
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flaviopereira21&show_icons=true&theme=github_dark&hide_title=true" height="150">
@@ -33,20 +33,19 @@ Sou um desenvolvedor júnior com vontade de crescer e contribuir com projetos re
 
 ---
 
-### 📫 Contato
-
+### 📫 Contactos
 - [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-pereira-09b403260)
-- Email: (adicione aqui se quiser mostrar)
+- Email: flavioteixeira2000@gmail.com
 
 ---
 
 ### ⚡ Curiosidades
 
-- 🎓 Estou sempre aprendendo novas tecnologias.
-- 💻 Gosto de contribuir com projetos open source.
-- 🚴‍♂️ Nas horas vagas, gosto de praticar esportes e explorar novas ideias.
+- 🎓 Estou sempre à procura de aprender novas linguagens e frameworks.
+- 💻 Tenho interesse em contribuir para novso projetos.
+- 🚴‍♂️ Nos tempos livres, gosto de estar a jogar jogos, pois sempre foi uma mundo que me despertou curiosidade.
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil!</p>
+<p align="center">✨ Obrigado por visitares o meu perfil!</p>
 
