@@ -16,23 +16,28 @@ Sou um programador júnior motivado e com vontade de evoluir. Tenho gosto por de
 
 ### 🛠️ Tecnologias e Ferramentas que utilizo
 
-
+- 💻 **Visual Studio** – para programar em C#.
+- 🛢️ **Laragon** – para gerir bases de dados MySQL.
+- 🧰 **Git** – para controlo de versões e colaboração.
+- ☁️ **GitHub** – onde publico os projetos que desenvolvo.
 
 ---
 
 ### 📫 Contactos
+
 - [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-pereira-09b403260)
-- Email: flavioteixeira2000@gmail.com
+- ✉️ Email: flavioteixeira2000@gmail.com
 
 ---
 
 ### ⚡ Curiosidades
 
 - 🎓 Estou sempre à procura de aprender novas linguagens e frameworks.
-- 💻 Tenho interesse em contribuir para novso projetos.
-- 🚴‍♂️ Nos tempos livres, gosto de estar a jogar jogos, pois sempre foi uma mundo que me despertou curiosidade.
+- 💻 Tenho interesse em contribuir para novos projetos e desafios.
+- 🎮 Nos tempos livres, gosto de jogar videojogos – é um mundo que sempre me despertou curiosidade.
 
 ---
 
 <p align="center">✨ Obrigado por visitares o meu perfil!</p>
+
 
